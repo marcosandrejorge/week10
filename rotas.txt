@@ -1,0 +1,8 @@
+http://localhost:8585/devs ()=> {
+
+   {
+      "github_username": "marcosandrejorge",
+      "techs": "C#, PHP, NodeJS, VueJS"
+   }
+
+}

@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');s
+const mongoose = require('mongoose');
 
 const DevShema = new mongoose.Schema({
    name: String,
@@ -8,4 +8,4 @@ const DevShema = new mongoose.Schema({
    techs: [String]
 });
 
-module.exports = mongoose.model('Dev', DevShema);s
+module.exports = mongoose.model('Dev', DevShema);
