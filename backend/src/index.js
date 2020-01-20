@@ -13,5 +13,3 @@ app.use(express.json());
 app.use(routes);
 
 app.listen(8585);
-
-//Segundo video, parei em 55min
