@@ -1,0 +1,5 @@
+Criar projeto react:
+yarn create react-app web
+
+Iniciar servidor backend:
+npm iniciar
